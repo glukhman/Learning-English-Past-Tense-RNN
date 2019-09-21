@@ -6,7 +6,8 @@ built using the tutorial at https://bastings.github.io/annotated_encoder_decoder
 for exploring Morris Halle's (1978) hypothesis regarding the encoding of phonemes as feature vectors
 by a learner of a natural language.
 
-The main code for the experiment is found in: _304366891_english_past_tense_rnn.py_
+For running the experiment, clone the repository locally and 
+run _304366891_english_past_tense_rnn.py_ using python 3.6+ (64-bit), after installing the required libraries.
 
    Tested on Windows 10 and Linux, with python 3.6+
    Required libraries: (install using _python -m pip install <lib_name>_)
