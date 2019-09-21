@@ -10,13 +10,14 @@ For running the experiment, clone the repository locally and
 run _304366891_english_past_tense_rnn.py_ using python 3.6+ (64-bit), after installing the required libraries.
 
    Tested on Windows 10 and Linux, with python 3.6+
+
    Required libraries: (install using _python -m pip install <lib_name>_)
    - pytorch
    - numpy
    - matplotlib
    - scipy
    
-  I've compiled installation scripts for Windows and Linux (should also word on a Mac), which
+  I've compiled installation scripts for Windows and Linux (should also work on a Mac), which
   can be found in this repository. 
   Notice that the Torch library is quite large (ca. 700 MB). Please be patient :)
   
