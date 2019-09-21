@@ -1,5 +1,5 @@
 # Learning-English-Past-Tense-RNN
-Code for a seminar work on the subject of learning the English past tense using RNNs
+Code for a seminar work on the subject of *learning the English past tense using RNNs*.
 
 This is a PyTorch implementation of the Annotated Encoder Decoder, an RNN described in Bahdanau et al.,
 built using the tutorial at https://bastings.github.io/annotated_encoder_decoder/,
